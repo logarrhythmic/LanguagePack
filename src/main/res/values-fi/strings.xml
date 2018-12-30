@@ -2,6 +2,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">AnySoftKeyboard - Suomi</string>
     <string name="keyboard_name">Suomalainen näppäimistö</string>
-        
+    <string name="keyboard_name_symbols">Suomalainen näppäimistö erikoismerkeillä</string>
     <string name="dictionary_name">Suomi</string>
 </resources>

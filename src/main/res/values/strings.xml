@@ -2,5 +2,6 @@
 <resources>
     <string name="app_name">AnySoftKeyboard - Finnish Language Pack</string>
     <string name="keyboard_name">Finnish keyboard</string>
+    <string name="keyboard_name_symbols">Finnish keyboard with symbols</string>
     <string name="dictionary_name">Finnish</string>
 </resources>
