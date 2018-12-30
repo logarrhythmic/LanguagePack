@@ -3,5 +3,5 @@ ext.status_icon_text = 'fi'
 ext.dictionaryInputPossibleCharacters = null//.toCharArray()
 ext.dictionaryInputAdditionalInnerCharacters = null//.toCharArray()
 dependencies {
-    implementation project(path: ':languages:base')
+    api project(path: ':languages:base')
 }

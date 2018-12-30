@@ -7,7 +7,12 @@
      "dictionaryResourceId" : a reference to the raw resource of the words dictionary
      "autoTextResourceId" : a reference to a common typing mistakes XML.
      -->
-	<Dictionary nameResId="@string/dictionary_name" locale="fi" id="aa85d1dd-f23b-4fc1-a30c-9a0480866122" type="binary_resource"
-	dictionaryResourceId="@array/finnish_words_dict_array" autoTextResourceId="@xml/autotext"
-	description="Created by ssalonen"/>
+	<Dictionary
+		nameResId="@string/finnish_dictionary"
+		locale="fi"
+		id="aa85d1dd-f23b-4fc1-a30c-9a0480866122"
+		type="binary_resource"
+		dictionaryResourceId="@array/finnish_words_dict_array"
+		autoTextResourceId="@xml/finnish_autotext"
+		description="@string/finnish_dictionary_description"/>
 </Dictionaries>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="finnish_dictionary_description">Created by ssalonen</string>
+    <string name="finnish_keyboard_description">QWERTY Latin keyboard (Created by ssalonen)</string>
+    <string name="finnish_keyboard_symbols_description">QWERTY Latin keyboard with symbols on long press (Created by ssalonen)</string>
+    <string name="finnish_dictionary">Finnish</string>
+    <string name="finnish_keyboard">Finnish</string>
+    <string name="finnish_keyboard_symbols">Finnish</string>
+</resources>
